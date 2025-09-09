@@ -6,7 +6,7 @@ Frontend Developer | React, Next, TypeScript, JavaScript, CSS, HTML | Creative P
 - [Project 2](link) 🔗 Kurzbeschreibung
 
 ## 🛠 Technologies & Skills
-React | JavaScript | Next | TypeScriot | HTML | CSS | Python Basics
+React ⚛️ | Next.js 🚀 | TypeScript 📝 | JavaScript 💻 | HTML 🏷️ | CSS 🎨 | Python 🐍
 
 ## 📫 Contact Me
 marcel.felder.bln@gmail.com
