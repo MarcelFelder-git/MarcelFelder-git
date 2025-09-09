@@ -1,4 +1,4 @@
-#Hi, I'm Marcel 👋  
+# Hi, I'm Marcel 👋  
 Frontend Developer in the making, passionate about interactive web projects and creative solutions.  
 Currently exploring React, Next.js, TypeScript and CSS. Always learning, always building!
 
