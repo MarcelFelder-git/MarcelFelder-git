@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="profile_banner.png" alt="Marcel Felder Frontend Developer | Newbie Banner" style="border-radius: 10px;">
+</div>
+
 # Hi, I'm Marcel 👋  
 Frontend Developer in the making, passionate about interactive web projects and creative solutions.  
 Currently exploring React, Next.js, TypeScript and CSS. Always learning, always building!
