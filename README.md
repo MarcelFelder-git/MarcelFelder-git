@@ -7,8 +7,11 @@ Frontend Developer in the making, passionate about interactive web projects and 
 Currently exploring React, Next.js, TypeScript, JavaScript, HTML and CSS. Always learning, always building!
 
 ## 🚀 Featured Projects
-- [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery) 🎨 Interactive museum heist game
-- [Project 2](link) 🔗 Kurzbeschreibung
+- [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery) 🎨 Interactive museum heist game (React, JavaScript)
+- [Next Game HUD](https://github.com/MarcelFelder-git/02_nxt_videogame_hud) 🎮 Game finder & API dashboard (Next.js, React, TypeScript)
+- [Guitar Glitch](https://github.com/MarcelFelder-git/03_guitar_glitch) 🎸 Browser-based rhythm game (JavaScript, HTML, CSS)
+
+
 
 ## 🛠 Technologies & Skills
 React ⚛️ | Next.js 🚀 | TypeScript 📝 | JavaScript 💻 | HTML 🏷️ | CSS 🎨 | Python 🐍
