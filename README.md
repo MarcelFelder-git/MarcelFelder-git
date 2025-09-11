@@ -7,11 +7,11 @@ Frontend Developer in the making, passionate about interactive web projects and 
 I recently completed a Frontend Developer training at Cimdata and am currently exploring React, Next.js, TypeScript, JavaScript, HTML and CSS. Always learning, always building!
 
 ## 🚀 Featured Projects
-- [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery)     🎨 Interactive museum heist game with API (React, JavaScript)
-- [NxtVideoGameHUD](https://github.com/MarcelFelder-git/02_nxt_videogame_hud)     🎮 Game finder & API dashboard (Next.js, React, TypeScript)
-- [Guitar Glitch](https://github.com/MarcelFelder-git/03_guitar_glitch)           🎸 Browser-based rhythm game (JavaScript, HTML, CSS)
-- [Melody Sketchbook](https://github.com/MarcelFelder-git/04_melody_sketchbook)   🎵 Draw & play melodies in browser (JavaScript, HTML, CSS)  
-- [Riff & Code Festival](https://github.com/MarcelFelder-git/05_riff_and_code_festival)     🏟️ Multi-page music festival website (HTML, CSS)  
+- [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery) 🎨 Interactive museum heist game with API (React, JavaScript)
+- [NxtVideoGameHUD](https://github.com/MarcelFelder-git/02_nxt_videogame_hud) 🎮 Game finder & API dashboard (Next.js, React, TypeScript)
+- [Guitar Glitch](https://github.com/MarcelFelder-git/03_guitar_glitch) 🎸 Browser-based rhythm game (JavaScript, HTML, CSS)
+- [Melody Sketchbook](https://github.com/MarcelFelder-git/04_melody_sketchbook) 🎵 Draw & play melodies in browser (JavaScript, HTML, CSS)  
+- [Riff & Code Festival](https://github.com/MarcelFelder-git/05_riff_and_code_festival) 🏟️ Multi-page music festival website (HTML, CSS)  
 - [Modern Museum of Lost Technology](https://github.com/MarcelFelder-git/06_museum_of_lost_technology) 🏛️ Single-page interactive museum (HTML, CSS) 
 
 
