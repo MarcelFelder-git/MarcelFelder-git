@@ -4,7 +4,7 @@
 
 # Hi, I'm Marcel 👋  
 Frontend Developer in the making, passionate about interactive web projects and creative solutions.  
-Currently exploring React, Next.js, TypeScript, JavaScript, HTML and CSS. Always learning, always building!
+I recently completed a Frontend Developer training at Cimdata and am currently exploring React, Next.js, TypeScript, JavaScript, HTML and CSS. Always learning, always building!
 
 ## 🚀 Featured Projects
 - [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery) 🎨 Interactive museum heist game with API (React, JavaScript)
