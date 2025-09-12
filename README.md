@@ -12,7 +12,8 @@ I recently completed a Frontend Developer training at Cimdata and am currently e
 - [Guitar Glitch](https://github.com/MarcelFelder-git/03_guitar_glitch) 🎸 Browser-based rhythm game (JavaScript, HTML, CSS)
 - [Melody Sketchbook](https://github.com/MarcelFelder-git/04_melody_sketchbook) 🎵 Draw & play melodies in browser (JavaScript, HTML, CSS)  
 - [Riff & Code Festival](https://github.com/MarcelFelder-git/05_riff_and_code_festival) 🏟️ Multi-page music festival website (HTML, CSS)  
-- [Modern Museum of Lost Technology](https://github.com/MarcelFelder-git/06_museum_of_lost_technology) 🏛️ Single-page interactive museum (HTML, CSS) 
+- [Modern Museum of Lost Technology](https://github.com/MarcelFelder-git/06_museum_of_lost_technology) 🏛️ Single-page interactive museum (HTML, CSS)
+- [Music Guessr](https://github.com/MarcelFelder-git/07_music_guessr) 🎶 Python music quiz game with Tkinter frontend (Python)
 
 
 
