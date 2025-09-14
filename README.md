@@ -15,6 +15,9 @@ I recently completed a Frontend Developer training at Cimdata and am currently e
 - [Modern Museum of Lost Technology](https://github.com/MarcelFelder-git/06_museum_of_lost_technology) 🏛️ Single-page interactive museum (HTML, CSS)
 - [Music Guessr](https://github.com/MarcelFelder-git/07_music_guessr) 🎶 Python music quiz game with Tkinter frontend (Python)
 
+<div align="center">
+  <img src="collage_featured_projets.png" alt="Collage Featured Projects" style="border-radius: 10px;">
+</div>
 
 
 ## 🛠 Technologies & Skills
