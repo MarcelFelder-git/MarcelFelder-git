@@ -16,7 +16,7 @@ I recently completed a Frontend Developer training at Cimdata and am currently e
 - [Music Guessr](https://github.com/MarcelFelder-git/07_music_guessr) 🎶 Python music quiz game with Tkinter frontend (Python)
 
 <div align="center">
-  <img src="collage_featured_projects.png" alt="Collage Featured Projects" style="border-radius: 10px;">
+  <img src="collage_featured_projects_2.png" alt="Collage Featured Projects" style="border-radius: 10px;">
 </div>
 
 
