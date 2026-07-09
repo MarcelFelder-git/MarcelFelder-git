@@ -7,6 +7,8 @@ Frontend Developer in the making, passionate about interactive web projects and 
 I recently completed a Frontend Developer training at Cimdata and am currently exploring React, Next.js, TypeScript, JavaScript, HTML and CSS. Always learning, always building!
 
 ## 🚀 Featured Projects
+
+- [Aufmischen Portfolio Engine](https://github.com/MarcelFelder-git/next-aufmischen_portfolio_v02) 🏗️ Modern headless portfolio engine built with Next.js and Sanity CMS. Developed to production readiness as a client project, now hosted as a fully functional open-source showcase due to client-side launch cancellation.
 - [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery) 🎨 Interactive museum heist game with API (React, JavaScript)
 - [NxtVideoGameHUD](https://github.com/MarcelFelder-git/02_nxt_videogame_hud) 🎮 Game finder & API dashboard (Next.js, React, TypeScript)
 - [Guitar Glitch](https://github.com/MarcelFelder-git/03_guitar_glitch) 🎸 Browser-based rhythm game (JavaScript, HTML, CSS)
