@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile_banner.png" alt="Marcel Felder Frontend Developer Banner" style="border-radius: 10px;">
+  <img src="profile_banner_01.png" alt="Marcel Felder Frontend Developer Banner" style="border-radius: 10px;">
 </div>
 
 # Hi, I'm Marcel 👋
