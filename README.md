@@ -21,9 +21,21 @@ self-updating demo.
 
 `Next.js` · `TypeScript` · `Python (AWS Lambda)` · `PostgreSQL` · `Prisma` · `Expo` · `AWS CDK` · `pytest`
 
+## ⭐ Featured: Aurora (full-stack + product design)
+
+A shared cycle-tracking PWA for two people: one person tracks, one person
+supports, live-synced in real time. Built around endometriosis pain
+management specifically, not generic period tracking — the partner view
+turns raw symptom data into concrete, phase-aware guidance instead of just
+numbers. The `couple_id` + Row Level Security data model means any number of
+couples can safely use the same deployment, each fully isolated.
+
+**[🌐 Live demo](https://aurora-app-pied.vercel.app/)** · **[📄 Code & README](https://github.com/MarcelFelder-git/aurora-app)**
+
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Realtime` · `Row Level Security` · `PWA`
+
 ## 🚀 More Projects
 
-- [Aurora](https://github.com/MarcelFelder-git/aurora-app) 🌙 Shared cycle-tracking PWA with a live-synced partner support view, built for endometriosis pain management (Next.js, Supabase, PWA)
 - [Aufmischen Portfolio Engine](https://github.com/MarcelFelder-git/next-aufmischen_portfolio_v02) 🏗️ Modern headless portfolio engine built with Next.js and Sanity CMS. Developed to production readiness as a client project, now an open-source showcase.
 - [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery) 🎨 Interactive museum heist game with API (React, JavaScript)
 - [NxtVideoGameHUD](https://github.com/MarcelFelder-git/02_nxt_videogame_hud) 🎮 Game finder & API dashboard (Next.js, React, TypeScript)
