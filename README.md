@@ -23,6 +23,7 @@ self-updating demo.
 
 ## 🚀 More Projects
 
+- [Aurora](https://github.com/MarcelFelder-git/aurora-app) 🌙 Shared cycle-tracking PWA with a live-synced partner support view, built for endometriosis pain management (Next.js, Supabase, PWA)
 - [Aufmischen Portfolio Engine](https://github.com/MarcelFelder-git/next-aufmischen_portfolio_v02) 🏗️ Modern headless portfolio engine built with Next.js and Sanity CMS. Developed to production readiness as a client project, now an open-source showcase.
 - [Art Robbery: The Heist](https://github.com/MarcelFelder-git/01_art_robbery) 🎨 Interactive museum heist game with API (React, JavaScript)
 - [NxtVideoGameHUD](https://github.com/MarcelFelder-git/02_nxt_videogame_hud) 🎮 Game finder & API dashboard (Next.js, React, TypeScript)
